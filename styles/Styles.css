@@ -1,0 +1,47 @@
+﻿/******************** DEFAULT ********************/
+body
+{
+}
+
+/******************** DIVS ********************/
+#page
+{
+    width: 800px;
+    margin: 0 auto;
+}
+#header
+{
+}
+#logo
+{
+    float: left;
+}
+#menu
+{
+    margin-top: 65px;
+}
+#main
+{
+    clear: both;
+}
+#footer
+{
+    font-size: x-small;
+    text-align: center;
+}
+
+/******************** MENU ********************/
+#menu ul
+{
+}
+#menu ul li
+{
+    display: inline-block;
+    background-color: #eee;
+    list-style-type: none;
+    margin-right: 0px;
+    padding: 10px;
+    border-right: 1px solid white;
+    width: 80px;
+    text-align: center;
+}
